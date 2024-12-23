@@ -39,5 +39,3 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 ## 8. Contact Us
 If you have questions about this Privacy Policy, please contact us at privacy@kingpool.app.
-
----
