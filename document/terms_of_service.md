@@ -43,5 +43,3 @@ These Terms shall be governed by and construed in accordance with the laws of Th
 
 ## 12. Contact Us
 If you have questions about these Terms, please contact us at support@kingpool.app.
-
----
