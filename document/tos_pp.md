@@ -1,5 +1,3 @@
-<!-- # Terms of Service -->
-
 **Effective Date:** December 23, 2024
 
 Welcome to KingPool! By using our platform, you agree to comply with and be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you must not use our services.
