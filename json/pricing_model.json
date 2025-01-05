@@ -1,0 +1,46 @@
+{
+  "tiers": [
+    {
+      "title": "Flat",
+      "price": "0.5",
+      "description": "per contestant entry",
+      "maximum": 1,
+      "minimum": 1
+    },
+    {
+      "title": "Small",
+      "price": "50",
+      "description": "0-99",
+      "maximum": 99,
+      "minimum": 0
+    },
+    {
+      "title": "Medium",
+      "price": "100",
+      "description": "100-399",
+      "maximum": 399,
+      "minimum": 100
+    },
+    {
+      "title": "Large",
+      "price": "250",
+      "description": "400-999",
+      "maximum": 999,
+      "minimum": 400
+    },
+    {
+      "title": "X-Large",
+      "price": "500",
+      "description": "1000-4999",
+      "maximum": 4999,
+      "minimum": 1000
+    },
+    {
+      "title": "XX-Large",
+      "price": "1000",
+      "description": "5000+",
+      "maximum": 1000000,
+      "minimum": 5000
+    }
+  ]
+}
