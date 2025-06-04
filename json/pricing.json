@@ -1,6 +1,6 @@
 {
-  "personalMonthly": 1,
-  "personalYearly": 1,
-  "businessMonthly": 100,
-  "businessYearly": 100
+  "personalRookie": 1,
+  "personalPro": 5,
+  "businessRookie": 100,
+  "businessPro": 500
 }
