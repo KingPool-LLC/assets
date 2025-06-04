@@ -1,0 +1,67 @@
+{
+  "personalPlans": [
+    {
+      "id": "free",
+      "name": "Free",
+      "price": 0,
+      "billing": "year",
+      "label": "Current",
+      "features": [
+        "Create profile",
+        "Join business contests"
+      ]
+    },
+    {
+      "id": "rookie",
+      "name": "Rookie",
+      "price": 1,
+      "billing": "year",
+      "label": "Popular",
+      "features": [
+        "Customize profile",
+        "Access profile stats and history",
+        "Create and join peer-to-peer contest",
+        "Social networking"
+      ]
+    },
+    {
+      "id": "pro",
+      "name": "Pro",
+      "price": 5,
+      "billing": "year",
+      "label": "Coming Soon",
+      "features": [
+        "AI Fantasy Commissioner Agent",
+        "AI Fantasy Intelligence Copilot",
+        "AI Fantasy Chat Agent"
+      ]
+    }
+  ],
+  "businessPlans": [
+    {
+      "id": "rookie-business",
+      "name": "Rookie (Business)",
+      "price": 100,
+      "billing": "year",
+      "label": "Popular",
+      "features": [
+        "Customize profile",
+        "Access profile stats and history",
+        "Create and join peer-to-peer contest",
+        "Social networking"
+      ]
+    },
+    {
+      "id": "pro-business",
+      "name": "Pro (Business)",
+      "price": 500,
+      "billing": "year",
+      "label": "Coming Soon",
+      "features": [
+        "AI Fantasy Commissioner Agent",
+        "AI Fantasy Intelligence Copilot",
+        "AI Fantasy Chat Agent"
+      ]
+    }
+  ]
+}
