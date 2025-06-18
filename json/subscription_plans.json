@@ -14,7 +14,7 @@
     {
       "id": "rookie",
       "name": "Rookie",
-      "price": 1,
+      "price": 5,
       "billing": "year",
       "label": "Popular",
       "features": [
@@ -27,7 +27,7 @@
     {
       "id": "pro",
       "name": "Pro",
-      "price": 5,
+      "price": 25,
       "billing": "year",
       "label": "Coming Soon",
       "features": [
@@ -41,7 +41,7 @@
     {
       "id": "rookie-business",
       "name": "Rookie (Business)",
-      "price": 100,
+      "price": 500,
       "billing": "year",
       "label": "Popular",
       "features": [
@@ -54,7 +54,7 @@
     {
       "id": "pro-business",
       "name": "Pro (Business)",
-      "price": 500,
+      "price": 2500,
       "billing": "year",
       "label": "Coming Soon",
       "features": [
